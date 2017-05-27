@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Jacque DesMarais
 
-I like to:
+I like to: write code, collect mechanical and vintace watches, cheer for Michigan and watch all sports
 
-I'm learning:
+I'm learning: Swift, HTML, CSS, Javascript, Ruby
 
 ```
 
